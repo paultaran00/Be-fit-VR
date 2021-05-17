@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="id" name="unitySurfaceView" id="2130771968" />
+    <public type="mipmap" name="app_icon" id="2130837504" />
+    <public type="mipmap" name="app_icon_round" id="2130837505" />
+    <public type="mipmap" name="ic_launcher_background" id="2130837506" />
+    <public type="mipmap" name="ic_launcher_foreground" id="2130837507" />
+    <public type="string" name="app_name" id="2130903040" />
+    <public type="string" name="game_view_content_description" id="2130903041" />
+    <public type="style" name="BaseUnityTheme" id="2130968576" />
+    <public type="style" name="UnityThemeSelector" id="2130968577" />
+    <public type="style" name="UnityThemeSelector.Translucent" id="2130968578" />
+    <public type="xml" name="network_sec_config" id="2131034112" />
+</resources>
